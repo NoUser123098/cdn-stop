@@ -1,2 +1,2 @@
-# cdn-stop
+# CDN Stop
 A CDN repository.
